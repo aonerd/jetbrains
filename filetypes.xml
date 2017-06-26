@@ -5,6 +5,7 @@
       <mapping pattern="accounts-get-default-scenario" type="PLAIN_TEXT" />
       <mapping pattern="ActionTypes" type="PLAIN_TEXT" />
       <mapping pattern="authorActions" type="PLAIN_TEXT" />
+      <mapping pattern=",deployment" type="PLAIN_TEXT" />
       <mapping pattern="dasf" type="PLAIN_TEXT" />
       <mapping pattern="groovy" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
