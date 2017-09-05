@@ -17,6 +17,11 @@
       <mask>*.sql</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
