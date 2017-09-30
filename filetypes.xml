@@ -10,6 +10,7 @@
       <mapping pattern="dasf" type="PLAIN_TEXT" />
       <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern="groovy" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
