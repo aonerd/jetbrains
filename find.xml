@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*gradle*</mask>
@@ -16,14 +14,12 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.ts</mask>
       <mask>h</mask>
       <mask>ht</mask>
       <mask>html</mask>
       <mask>htm</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.html,</mask>
       <mask>*.html,*</mask>
@@ -34,6 +30,11 @@
       <mask>css</mask>
       <mask>*css</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
