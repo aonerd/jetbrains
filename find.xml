@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*gradle*</mask>
-      <mask>*.xsd</mask>
-      <mask>*.sql</mask>
-      <mask>*.gradle</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.ts</mask>
-      <mask>h</mask>
-      <mask>ht</mask>
-      <mask>html</mask>
-      <mask>htm</mask>
-      <mask>*</mask>
-      <mask>*.html</mask>
-      <mask>*.html,</mask>
-      <mask>*.html,*</mask>
-      <mask>*.html,*.</mask>
-      <mask>*.html,*.ts</mask>
-      <mask>c</mask>
-      <mask>cs</mask>
-      <mask>css</mask>
-      <mask>*css</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
