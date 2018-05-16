@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'angular'" />
-    <option name="defaultScopeName" value="Project 'angular'" />
-    <option name="SEARCH_SCOPE" value="Project 'angular'" />
+    <option name="customScope" value="Ts" />
+    <option name="defaultScopeName" value="Ts" />
+    <option name="SEARCH_SCOPE" value="Ts" />
     <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
