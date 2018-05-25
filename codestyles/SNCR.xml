@@ -8,7 +8,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="180" />
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
@@ -77,7 +77,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="180" />
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
@@ -91,6 +91,7 @@
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
