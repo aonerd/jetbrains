@@ -12,7 +12,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*spec*</mask>
+    <mask>*effect*</mask>
     <mask>*.ts</mask>
+    <mask>*spec*</mask>
   </component>
 </application>
