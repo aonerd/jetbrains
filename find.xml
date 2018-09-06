@@ -24,5 +24,6 @@
     <mask>*.po.ts</mask>
     <mask>*t.ts</mask>
     <mask>*spec.ts</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
