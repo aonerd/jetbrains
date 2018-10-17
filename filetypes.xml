@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="application-local-dev-eureka" type="PLAIN_TEXT" />
+      <mapping pattern="service" type="PLAIN_TEXT" />
+      <mapping pattern="conversationDataListModel.ts" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
