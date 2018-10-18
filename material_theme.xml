@@ -1,7 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
-    <option name="userId" value="-60d3a9a3:164b8445f52:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="version" value="2.1.5.3" />
   </component>
 </application>
