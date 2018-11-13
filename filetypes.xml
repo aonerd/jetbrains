@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="application-local-dev-eureka" type="PLAIN_TEXT" />
       <mapping pattern="service" type="PLAIN_TEXT" />
+      <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping pattern="conversationDataListModel.ts" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
