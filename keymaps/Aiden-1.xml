@@ -187,9 +187,7 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="ShowBookmarks" />
-  <action id="ShowProjectStructureSettings">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="StructuralSearchPlugin.StructuralSearchAction" />
   <action id="SurroundWith" />
   <action id="SwitchApply">
