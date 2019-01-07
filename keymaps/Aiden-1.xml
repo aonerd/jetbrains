@@ -140,6 +140,9 @@
   <action id="Macro.Reformat, Rearrange, Optimise Imports and Save">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
