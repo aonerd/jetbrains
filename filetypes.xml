@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="application-local-dev-eureka" type="PLAIN_TEXT" />
       <mapping pattern="service" type="PLAIN_TEXT" />
       <mapping pattern="adf" type="PLAIN_TEXT" />
