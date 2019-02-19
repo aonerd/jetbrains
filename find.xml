@@ -26,5 +26,6 @@
     <mask>*.yml</mask>
     <mask>*.e2e-spec.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
