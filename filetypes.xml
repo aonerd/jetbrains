@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="application-local-dev-eureka" type="PLAIN_TEXT" />
+      <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping pattern="service" type="PLAIN_TEXT" />
       <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping pattern="conversationDataListModel.ts" type="PLAIN_TEXT" />
